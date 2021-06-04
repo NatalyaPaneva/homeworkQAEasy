@@ -1,0 +1,61 @@
+{
+  "Countries": [
+    {
+      "name": "Japan",
+      "rus": "Япония",
+      "eng": "Japan",
+      "codeOfCountry": "JP",
+      "codeOfCurrency": "JPY",
+      "listOfCities": [
+        {
+          "rus": "Токио",
+          "eng": "Tokyo",
+          "population": 13960000
+        },
+        {
+          "rus": "Осака",
+          "eng": "Osaka",
+          "population": 2691000
+        }
+      ]
+    },
+    {
+      "name": "Korea",
+      "rus": "Корея",
+      "eng": "Korea",
+      "codeOfCountry": "KR",
+      "codeOfCurrency": "KRW",
+      "listOfCities": [
+        {
+          "rus": "Сеул",
+          "eng": "Seoul",
+          "population": 9776000
+        },
+        {
+          "rus": "Пусан",
+          "eng": "Busan",
+          "population": 3429000
+        }
+      ]
+    },
+    {
+      "name": "Russia",
+      "rus": "Россия",
+      "eng": "Russia",
+      "codeOfCountry": "RU",
+      "codeOfCurrency": "RUB",
+      "listOfCities": [
+        {
+          "rus": "Москва",
+          "eng": "Moscow",
+          "population": 11920000
+        },
+        {
+          "rus": "Санкт-Петербург",
+          "eng": "Saint-Petersburg",
+          "population": 4991000
+        }
+      ]
+    }
+  ]
+}
